@@ -1,0 +1,58 @@
+Manifest-Version: 1.0
+Main-Class: io.helidon.microprofile.cdi.Main
+Class-Path: libs/helidon-microprofile-openapi-3.1.2.jar libs/helidon-mic
+ roprofile-server-3.1.2.jar libs/helidon-microprofile-rest-client-3.1.0.
+ jar libs/jersey-media-json-binding-3.0.8.jar libs/postgresql-42.5.1.jar
+  libs/openapi-ui-2.0.0.jar libs/jakarta.transaction-api-2.0.1.jar libs/
+ jersey-mp-rest-client-3.0.8.jar libs/jersey-weld2-se-3.0.9.jar libs/hel
+ idon-microprofile-cdi-3.1.2.jar libs/weld-se-core-3.1.2.jar libs/helido
+ n-webserver-jersey-3.1.2.jar libs/helidon-jersey-client-3.1.2.jar libs/
+ weld-spi-4.0.SP1.jar libs/weld-api-4.0.SP1.jar libs/jakarta.enterprise.
+ cdi-api-3.0.0.jar libs/jersey-media-sse-3.0.8.jar libs/helidon-jersey-s
+ erver-3.1.2.jar libs/jersey-server-3.0.9.jar libs/jersey-client-3.0.9.j
+ ar libs/jersey-hk2-3.0.9.jar libs/helidon-jersey-media-jsonp-3.1.2.jar 
+ libs/jersey-media-json-processing-3.0.9.jar libs/jersey-common-3.0.9.ja
+ r libs/jakarta.inject-api-2.0.1.jar libs/jakarta.persistence-api-3.1.0.
+ jar libs/eclipselink-3.0.3.jar libs/helidon-integrations-cdi-jpa-4.0.0-
+ ALPHA4.jar libs/helidon-openapi-3.1.2.jar libs/helidon-webserver-static
+ -content-3.1.2.jar libs/helidon-webserver-cors-3.1.2.jar libs/helidon-w
+ ebserver-3.1.2.jar libs/helidon-media-jsonp-3.1.2.jar libs/helidon-medi
+ a-common-3.1.2.jar libs/helidon-microprofile-config-3.1.2.jar libs/heli
+ don-config-yaml-mp-3.1.2.jar libs/helidon-config-yaml-3.1.2.jar libs/he
+ lidon-config-mp-3.1.2.jar libs/helidon-config-encryption-3.1.2.jar libs
+ /helidon-common-key-util-3.1.2.jar libs/helidon-common-configurable-3.1
+ .2.jar libs/helidon-tracing-3.1.2.jar libs/helidon-tracing-config-3.1.2
+ .jar libs/helidon-config-object-mapping-3.1.2.jar libs/helidon-config-3
+ .1.2.jar libs/helidon-common-http-3.1.2.jar libs/helidon-common-context
+ -3.1.2.jar libs/helidon-logging-common-3.1.2.jar libs/helidon-common-me
+ dia-type-3.1.2.jar libs/helidon-common-reactive-3.1.2.jar libs/helidon-
+ common-mapper-3.1.2.jar libs/helidon-common-service-loader-3.1.2.jar li
+ bs/helidon-common-crypto-3.1.2.jar libs/helidon-common-3.1.2.jar libs/h
+ elidon-integrations-cdi-reference-counted-context-4.0.0-ALPHA4.jar libs
+ /helidon-integrations-cdi-delegates-4.0.0-ALPHA4.jar libs/helidon-integ
+ rations-jta-jdbc-4.0.0-ALPHA4.jar libs/helidon-integrations-jdbc-4.0.0-
+ ALPHA4.jar libs/jersey-cdi1x-3.0.9.jar libs/smallrye-open-api-jaxrs-2.1
+ .16.jar libs/smallrye-open-api-core-2.1.16.jar libs/jackson-core-2.13.4
+ .jar libs/jackson-dataformat-yaml-2.13.4.jar libs/jackson-databind-2.13
+ .4.2.jar libs/jackson-annotations-2.13.4.jar libs/jaxb-impl-3.0.2.jar l
+ ibs/jaxb-core-3.0.2.jar libs/jakarta.xml.bind-api-3.0.1.jar libs/jakart
+ a.ws.rs-api-3.0.0.jar libs/jakarta.el-api-4.0.0.jar libs/jakarta.interc
+ eptor-api-2.0.0.jar libs/jakarta.annotation-api-2.0.0.jar libs/parsson-
+ 1.0.2.jar libs/yasson-2.0.4.jar libs/jakarta.json-api-2.0.2.jar libs/ja
+ karta.json.bind-api-2.0.0.jar libs/jakarta.activation-api-2.0.1.jar lib
+ s/parsson-media-1.0.2.jar libs/netty-codec-http-4.1.86.Final.jar libs/n
+ etty-handler-4.1.86.Final.jar libs/netty-codec-4.1.86.Final.jar libs/ne
+ tty-transport-native-unix-common-4.1.86.Final.jar libs/netty-transport-
+ 4.1.86.Final.jar libs/netty-buffer-4.1.86.Final.jar libs/snakeyaml-1.32
+ .jar libs/microprofile-config-api-3.0.1.jar libs/microprofile-rest-clie
+ nt-api-3.0.jar libs/microprofile-openapi-api-3.0.jar libs/jandex-2.4.3.
+ Final.jar libs/jakarta.validation-api-3.0.0.jar libs/weld-environment-c
+ ommon-4.0.2.Final.jar libs/jboss-classfilewriter-1.2.5.Final.jar libs/j
+ boss-logging-3.4.2.Final.jar libs/reactive-streams-1.0.4.jar libs/netty
+ -resolver-4.1.86.Final.jar libs/netty-common-4.1.86.Final.jar libs/chec
+ ker-qual-3.5.0.jar libs/jakarta.activation-2.0.1.jar libs/osgi-resource
+ -locator-1.0.3.jar libs/jakarta.json-2.0.0-module.jar libs/weld-core-im
+ pl-3.1.2.jar libs/hk2-locator-3.0.3.jar libs/javassist-3.29.0-GA.jar li
+ bs/hk2-api-3.0.3.jar libs/aopalliance-repackaged-3.0.3.jar libs/hk2-uti
+ ls-3.0.3.jar
+
